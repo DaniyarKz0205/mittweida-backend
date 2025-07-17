@@ -10,8 +10,8 @@ This is the backend for the Mittweida Day-Trip Guide. It handles feedback submit
    ```bash
    git clone https://github.com/DaniyarKz0205/mittweida-backend.git
    cd mittweida-backend
-
-
+   ```
+   
 2. **Install dependencies**:
 
    ```bash
